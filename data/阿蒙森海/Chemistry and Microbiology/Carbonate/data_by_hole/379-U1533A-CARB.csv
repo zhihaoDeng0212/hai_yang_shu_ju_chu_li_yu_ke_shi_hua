@@ -1,0 +1,7 @@
+Exp,Site,Hole,Core,Type,Sect,A/W,Top offset on section (cm),Bot offset on section (cm),Top depth CSF-A (m),Top depth CSF-B (m),Inorganic carbon (wt%),Calcium carbonate (wt%),Total carbon (wt%),Hydrogen (wt%),Nitrogen (wt%),Sulfur (wt%),Organic carbon (wt%) by difference (CHNS-COUL),Sample comments
+379,U1533,A,1,H,1,W,82.0,83.0,0.82,0.806,0.011,0.092,0.0913,0.0,0.0331,0.1617,0.08,
+379,U1533,A,1,H,5,W,77.0,78.0,6.81,6.69,0.016,0.133,0.0612,0.0,0.0412,0.1107,0.05,
+379,U1533,A,2,H,3,W,87.0,88.0,13.38,13.242,0.01,0.083,0.044,0.0,0.0302,0.0541,0.03,
+379,U1533,A,2,H,6,W,97.0,98.0,18.0,17.699,0.013,0.108,0.0777,0.0,0.0292,0.1307,0.06,
+379,U1533,A,3,H,3,W,90.0,91.0,22.91,22.707,0.011,0.092,0.067,0.0,0.0244,0.0979,0.06,
+379,U1533,A,3,H,6,W,20.0,21.0,26.73,26.329,0.008,0.067,0.0293,0.0,0.031,0.0587,0.02,

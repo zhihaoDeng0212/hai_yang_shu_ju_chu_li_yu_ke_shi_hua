@@ -1,0 +1,8 @@
+Exp,Site,Hole,Core,Type,Sect,Top offset (cm),Bottom offset (cm),Top depth CSF-A (m),Bottom depth CSF-A (m),Top depth CSF-B (m),Bottom depth CSF-B (m),Salinity,Timestamp (UTC),Text ID,Test No.,Sample comments,Test comments,Result comments
+379,U1533,A,1,H,1,146.0,151.0,1.46,1.510,1.434,1.483,35,2019-03-09 12:30:38,LIQ9763101,113332661,shipboard untreated,,
+379,U1533,A,1,H,3,146.0,151.0,4.48,4.530,4.401,4.450,35,2019-03-09 12:30:40,LIQ9763191,113332671,shipboard untreated,,
+379,U1533,A,1,H,5,144.0,149.0,7.48,7.530,7.349,7.398,35,2019-03-09 12:30:42,LIQ9763281,113332681,shipboard untreated,,
+379,U1533,A,2,H,2,145.0,150.0,12.46,12.510,12.355,12.403,35,2019-03-09 12:30:43,LIQ9763781,113332691,shipboard untreated,,
+379,U1533,A,2,H,5,145.0,150.0,16.98,17.030,16.715,16.763,35,2019-03-09 12:30:45,LIQ9763871,113332701,shipboard untreated,,
+379,U1533,A,3,H,2,146.0,151.0,21.96,22.010,21.806,21.853,35,2019-03-09 12:30:46,LIQ9764371,113332711,shipboard untreated,,
+379,U1533,A,3,H,5,145.0,150.0,26.48,26.530,26.092,26.139,35,2019-03-09 12:30:47,LIQ9764461,113332721,shipboard untreated,,

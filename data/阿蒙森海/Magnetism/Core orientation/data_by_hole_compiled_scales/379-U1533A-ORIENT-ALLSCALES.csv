@@ -1,0 +1,4 @@
+Exp,Site,Hole,Core,Type,Depth CSF-A (m),Depth CSF-B (m),Depth CCSF-379-U1533-ABCD-20191030 (m),Hx (nT),Hv (nT),Azimuth (deg),Dip (deg),Tool acceleration (g),Magnetic dip (deg),Total magnetic field (nT),Magnetic tool face (deg),Temperature (deg C),Tool ID,Excel filename,Timestamp (UTC),Text ID,Test No.,Sample comments,Test comments,Result comments
+379,U1533,A,1,H,0,0.000,2.890,-19571,-2254,231.2,-89.5,,65,46585,173,0.4,Icefield 2043,379-ORIENT-48523941-Exp379_U1533A_1.xlsx,2019-03-09 12:20:17,CORE9762661,113332181,,,
+379,U1533,A,2,H,9.5,9.500,14.230,-18116,7953,288.1,-89.2,,65.2,46508,202.4,-0.3,Icefield 2043,379-ORIENT-48523941-Exp379_U1533A_1.xlsx,2019-03-09 12:20:22,CORE9763371,113332191,,,
+379,U1533,A,3,H,19,19.000,24.730,-19836,-1897,289.6,-89.1,,65,46652,172.8,-0.3,Icefield 2043,379-ORIENT-48523941-Exp379_U1533A_1.xlsx,2019-03-09 12:20:26,CORE9763961,113332201,,,

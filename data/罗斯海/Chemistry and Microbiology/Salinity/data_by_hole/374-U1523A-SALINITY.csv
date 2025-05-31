@@ -1,0 +1,5 @@
+Exp,Site,Hole,Core,Type,Sect,Top offset (cm),Bottom offset (cm),Top depth CSF-A (m),Bottom depth CSF-A (m),Top depth CSF-B (m),Bottom depth CSF-B (m),Salinity,Comments
+374,U1523,A,1,H,1,0.0,0.0,0,0.050,0.000,0.050,34,"ship split, untreated"
+374,U1523,A,1,H,5,145.0,150.0,7.46,7.510,7.451,7.501,35,"ship split, untreated"
+374,U1523,A,2,H,6,29.0,34.0,15.03,15.080,15.030,15.080,35,alkalinity residue
+374,U1523,A,6,F,3,72.0,82.0,40.62,40.670,40.589,40.639,35,"ship split, untreated"

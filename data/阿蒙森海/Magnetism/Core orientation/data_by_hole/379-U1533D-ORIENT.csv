@@ -1,0 +1,4 @@
+Exp,Site,Hole,Core,Type,Depth CSF-A (m),Depth CSF-B (m),Hx (nT),Hv (nT),Azimuth (deg),Dip (deg),Tool acceleration (g),Magnetic dip (deg),Total magnetic field (nT),Magnetic tool face (deg),Temperature (deg C),Tool ID,Excel filename,Timestamp (UTC),Text ID,Test No.,Sample comments,Test comments,Result comments
+379,U1533,D,3,H,12.6,12.600,10924,-16114,96.7,-89.2,,66.1,47530,57.2,-1.3,Icefield 2052,379-ORIENT-48523821-Exp379_U1533D_1.xlsx,2019-03-09 12:13:17,CORE9778821,113332151,,,Removed outliers
+379,U1533,D,4,H,21,21.000,-4679,-18296,148,-88.3,,66.7,47248,104.2,-1.3,Icefield 2052,379-ORIENT-48523821-Exp379_U1533D_1.xlsx,2019-03-09 12:13:22,CORE9779181,113332161,,,Very noisey data. reduced set
+379,U1533,D,5,H,30.5,30.500,-15409,-12037,151,-89.3,,65.2,47448,142.5,-1.3,Icefield 2052,379-ORIENT-48523821-Exp379_U1533D_1.xlsx,2019-03-09 12:13:27,CORE9779541,113332171,,,Removed outliers

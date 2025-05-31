@@ -1,0 +1,13 @@
+Exp,Site,Hole,Core,Type,Sect,Top offset (cm),Bottom offset (cm),Top depth CSF-A (m),Bottom depth CSF-A (m),Top depth CSF-B (m),Bottom depth CSF-B (m),Salinity,Comments
+374,U1525,A,1,H,3,145.0,150.0,4.45,4.500,4.440,4.490,35,"ship split, untreated"
+374,U1525,A,2,H,4,146.0,151.0,14.57,14.620,14.177,14.224,35,"ship split, untreated"
+374,U1525,A,3,H,4,145.0,150.0,24.06,24.110,23.701,23.748,34,"ship split, untreated"
+374,U1525,A,5,F,2,145.0,150.0,31.85,31.900,31.730,31.778,34,"ship split, untreated"
+374,U1525,A,11,F,3,91.0,101.0,59.43,59.480,59.285,59.333,34,"ship split, untreated"
+374,U1525,A,13,F,3,86.0,96.0,68.87,68.920,68.870,68.920,34,"ship split, untreated"
+374,U1525,A,15,F,2,136.0,146.0,77.32,77.370,77.320,77.370,34,"ship split, untreated"
+374,U1525,A,16,H,6,131.0,141.0,87.61,87.660,87.429,87.478,33.5,"ship split, untreated"
+374,U1525,A,17,H,4,141.0,151.0,94.35,94.450,94.084,94.179,34,"ship split, untreated"
+374,U1525,A,20,F,3,91.0,101.0,115.71,115.810,115.573,115.670,34,"ship split, untreated"
+374,U1525,A,25,X,3,140.0,150.0,135.6,135.700,134.993,135.079,34,"ship split, untreated"
+374,U1525,A,30,X,4,138.0,148.0,181.09,181.190,181.065,181.165,33,"ship split, untreated"

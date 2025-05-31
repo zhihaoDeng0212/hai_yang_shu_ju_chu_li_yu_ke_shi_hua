@@ -1,0 +1,12 @@
+Site,Hole,Core,Core Type,Top of core depth CSF-A (m),Top of core depth CCSF-A (m),Cumulative offset (m),Differential offset (m),Growth rate,Shift type,Data Used,Quality comment
+U1533,A,1,H,0,2.89,2.89,0,0,TIE,Magnetic susceptibility,
+U1533,A,2,H,9.5,14.23,4.73,1.84,1.497894737,TIE,Magnetic susceptibility,
+U1533,A,3,H,19,24.73,5.73,1,1.301578947,TIE,Magnetic susceptibility,
+U1533,B,2,H,25.5,35.24,9.74,4.01,1.381960784,APPEND,,
+U1533,B,3,H,35,47.17,12.17,2.43,1.347714286,TIE,Magnetic susceptibility,
+U1533,C,1,H,0,2.25,2.25,2.25,0,TIE,Magnetic susceptibility,
+U1533,D,1,H,0,0,0,0,0,SET,Magnetic susceptibility,
+U1533,D,2,H,4.8,7.98,3.18,3.18,1.6625,TIE,Magnetic susceptibility,
+U1533,D,3,H,12.6,19.27,6.67,3.49,1.529365079,TIE,Magnetic susceptibility,
+U1533,D,4,H,21,28.78,7.78,1.11,1.37047619,TIE,Magnetic susceptibility,
+U1533,D,5,H,30.5,37.81,7.31,-0.47,1.239672131,TIE,Magnetic susceptibility,
